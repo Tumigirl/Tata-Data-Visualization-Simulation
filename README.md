@@ -1,10 +1,10 @@
-# Tata-Data-Visualization-Simulation
+## Tata-Data-Visualization-Simulation
 Sales performance analysis and expansion opportunity for online retail store TATA
 
 [![Watch the full presentation](<img width="915" height="513" alt="Sales Performance Analysis and Expansion Opportunities - PowerPoint 6_19_2026 11_46_59 AM" src="https://github.com/user-attachments/assets/3c64ef97-340d-49ab-8020-bae4a3facd28" />
 )](https://drive.google.com/file/d/1VPS-9sMsgcicdsiI8Hmdv9QVCMq-Cvc4/view?usp=sharing)
 
-**Project Overview:** The CEO and CMO have recently met to finalise the requirements and they wanted me to provide them with some analysis and visuals that would help answer their questions. Both, the executives are interested in viewing and understanding how they can use the data to make more meaningful decisions. My role was to provide insights which they could use to create the expansion strategy. The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store.
+#**Project Overview:** The CEO and CMO have recently met to finalise the requirements and they wanted me to provide them with some analysis and visuals that would help answer their questions. Both, the executives are interested in viewing and understanding how they can use the data to make more meaningful decisions. My role was to provide insights which they could use to create the expansion strategy. The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store.
 
 **The Problem:** 
 Question 1
